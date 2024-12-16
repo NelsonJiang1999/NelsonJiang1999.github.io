@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /research programs/index.html
+title: Research Programs
 ---
 
 # Hobbies
