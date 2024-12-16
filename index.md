@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://https://nelsonjiang1999.github.io//Bohao Jiang.jpg" class="floatpic">
+<img src="https://nelsonjiang1999.github.io//Bohao Jiang.jpg" class="floatpic">
 
 Here is **Bohao Jiang (Nelson, 姜博昊)**. Throughout my master's degree, I played 2 roles simultaneously.<br>
 
