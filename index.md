@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://nelsonjiang1999.github.io//Bohao Jiang.jpg" class="floatpic">
+<img src="https://nelsonjiang1999.github.io//Bohao Jiang.jpg" class="floatpic" style="zoom:150%;" >
 
 Here is **Bohao Jiang (Nelson, 姜博昊)**. Throughout my master's degree, I played 2 roles simultaneously.
 
 **Role 1: Postgraduate Student of China Medical university** <br>
 
-I am a graduate student in the Department of Surgery and Urology at the China medical university, advised by Prof. Jianbin Bi, with a main research focus on Genitourinary Oncology (Clinical diagnosis, Treatment and Prognosis of malignant tumors of the urinary system). I have achieved an outstanding academic score in class (4th out of 153 students in our major, **Top 3%**) and will get my master degree in Clinical Medicine (Surgery) in 2025.  I have published 1 SCI paper **as the first author** and another 3 SCI papers are under review. I also played an important role in the analysis and writing of two other articles, and was listed as the second ranked **co-first author**. Up to now, I have been deeply involved in the initiation and implementation of three clinical research projects. One of them was independently designed and mainly implemented by me (which results will be used for my **graduation thesis**). I am also applying for a patent for an improved surgical instrument. Detailed publications and research program are displayed in Section "Publication", "Research experience" and "Patent"
+I am a graduate student in the Department of Surgery and Urology at the China medical university, advised by Prof. Jianbin Bi, with a main research focus on Genitourinary Oncology (Clinical diagnosis, Treatment and Prognosis of malignant tumors of the urinary system). I have achieved an outstanding academic score in class (4th out of 153 students in our major, **Top 3%**) and will get my master degree in Clinical Medicine (Surgery) in 2025.  Detailed publications and research program are displayed in Section "Publication", "Research experience" and "Patent"
 
 **Role 2: Surgical resident in the first affiliated hospital of China Medical University**<br>
 
