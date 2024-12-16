@@ -40,12 +40,17 @@ links:
     url: /
   - title: Publications
     url: /publications/
+  - title: Research Experience
+    url: /research experience/
+  - title: Work Experience
+    url: /work experience/
   - title: Awards
     url: /awards/
-  - title: Projects
-    url: /projects/
-  - title: Research Programs
-    url: /research programs/
+  - title: Patent
+    url: /patent/
+  - title: Contact Me
+    url: /contact me/
+
  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
