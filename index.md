@@ -6,7 +6,9 @@ layout: page
 
 <img src="https://nelsonjiang1999.github.io//Bohao Jiang.jpg" class="floatpic" style="zoom:150%;" >
 
-Here is **Bohao Jiang (Nelson, 姜博昊)**. Throughout my master's degree, I played 2 roles simultaneously.
+Here is **Bohao Jiang (Nelson, 姜博昊)**. 
+
+Throughout my master's degree, I played 2 roles simultaneously.
 
 **Role 1: Postgraduate Student of China Medical university** <br>
 
