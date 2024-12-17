@@ -18,7 +18,7 @@ Oh, well... I admit that I am a heavy history enthusiast.
 
   Email: jiangbh.1999@163.com
 
-  Wechat: ![](https://NelsonJiang1999.github.io/images/wechat.JPG)
+  Wechat: <img src="https://NelsonJiang1999.github.io/images/wechat.JPG" style="zoom: 25%;" />
 
 - For foreign friends:
 

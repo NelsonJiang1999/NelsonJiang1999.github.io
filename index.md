@@ -32,6 +32,16 @@ If you are interested in any aspect of me, I am always open to discussions and s
 
 ---
 
+## Educational Background
+
+- **China Medical University**  Master of Clinical Medicine (Surgery) (08/2022-present)<br>
+
+​        Supervisor: Prof. Jianbin Bi;             (Expected to graduate in **June 2025**)
+
+- **China Medical University**  Bachelor of Clinical Medicine  (09/2017-06/2022)
+
+  Academic Score: 92/100 (GPA not applicable).  Rank 4th in my major (4/153, **top 3%**)
+
 ## Research Interests
 
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. I will apply for funding from China Scholarship Counsil (CSC) which could support my living expenses abroad. If you have any information, please contact me!</font>**

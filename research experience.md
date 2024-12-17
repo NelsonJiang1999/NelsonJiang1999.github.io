@@ -11,10 +11,11 @@ Declared before anything else: The images are only used as partial displays to a
 ## 1. Establishing a prostate cancer diagnostic model using [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) (PHI), multi-parameter MRI (mpMRI), and clinical biochemical indicators under machine learning methods  
 
 <div class="third">
-<img src="/images/PHI-LDSC.JPG">
-<img src="/images/PHI-data.JPG">
-<img src="/images/PHI-matrix.JPG">
+<img src="https://NelsonJiang1999.github.io/images/PHI-LDSC.JPG">
+<img src="https://NelsonJiang1999.github.io/images/PHI-data.JPG">
+<img src="https://NelsonJiang1999.github.io/images/PHI-matrix.JPG">
 </div>
+
 
 <br>
 
@@ -37,10 +38,11 @@ Role: The independent designers and main implementer of the research<br>
 ## 2. Established a long-term clinical follow-up database for malignant urological tumors for the First affiliated hospital of China Medical university (07/2023-10/2024)
 
 <div class="third">
-<img src="/images/ONCO-E.JPG">
-<img src="/images/ONCO-P.JPG">
-<img src="/images/ONCO-K.JPG">
+<img src="https://NelsonJiang1999.github.io/images/ONCO-E.JPG">
+<img src="https://NelsonJiang1999.github.io/images/ONCO-P.JPG">
+<img src="https://NelsonJiang1999.github.io/images/ONCO-K.JPG">
 </div>
+
 
 <br>
 
@@ -84,8 +86,9 @@ Methods and Software: Bioinformatic analysis (R 4.3.3)<br>
 - Next, I will compare the data obtained from colocalization analysis with the genetic data of 731 kinds of immune cells in the human body, aiming to reveal the **mediating mechanisms** of various immune cells in the process of  **cancer development**. (Expected to be completed in **January 2025**).<br>
 
 <div>
-<img src="/images/GWAS.JPG">
+<img src="https://NelsonJiang1999.github.io/images/GWAS.JPG">
 </div>
+
 
 <br>
 
