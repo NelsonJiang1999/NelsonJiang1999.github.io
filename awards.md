@@ -15,7 +15,8 @@ title: Awards
 
 ## Transcripts 
 
-- [Undergraduate Transcript, please click here.](https://NelsonJiang1999.github.io/file/Undergraduate_transcript.pdf)
-- [Master's Transcript, please click here.](https://NelsonJiang1999.github.io/file/master_transcript.pdf)
+- [Undergraduate Transcript, please click here.](https://NelsonJiang1999.github.io/file/Undergraduate_transcript_BohaoJiang.pdf)
+- [Master's Transcript, please click here.](https://NelsonJiang1999.github.io/file/master_transcript_BohaoJiang.pdf)
 
 <br>
+

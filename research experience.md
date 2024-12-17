@@ -12,9 +12,15 @@ Declared before anything else: The images are only used as partial displays to a
 
 <img src="https://NelsonJiang1999.github.io/images/PHI-LDSC.jpg" style="zoom: 25%;" />
 
+[^Figure 1]: LDSC analysis (Part of the screening work for included indicators)
+
 <img src="https://NelsonJiang1999.github.io/images/PHI-data.jpg" style="zoom: 33%;" />
 
+[^Figure 2]: Part of the validation set data
+
 <img src="https://NelsonJiang1999.github.io/images/PHI-matrix.jpg" style="zoom: 50%;" />
+
+[^Figure 3]: Consensus matrix (A step of machine-learning for clustering of dependent variables)
 
 <br>
 
@@ -38,9 +44,15 @@ Role: The independent designers and main implementer of the research<br>
 
 <img src="https://NelsonJiang1999.github.io/images/ONCO-E.jpg" style="zoom:50%;" />
 
+[^Figure 1]: Developed clinical database was based on EpiData 3.1.
+
 <img src="https://NelsonJiang1999.github.io/images/ONCO-P.jpg" style="zoom:50%;" />
 
+[^Figure 2]: Datasheet designed for prostate cancer
+
 <img src="https://NelsonJiang1999.github.io/images/ONCO-K.jpg" style="zoom:50%;" />
+
+[^Figure 3]: Datasheet designed for Renal Cell Carcinoma
 
 <br>
 
@@ -84,6 +96,8 @@ Methods and Software: Bioinformatic analysis (R 4.3.3)<br>
 - Next, I will compare the data obtained from colocalization analysis with the genetic data of 731 kinds of immune cells in the human body, aiming to reveal the **mediating mechanisms** of various immune cells in the process of  **cancer development**. (Expected to be completed in **January 2025**).<br>
 
 <img src="https://NelsonJiang1999.github.io/images/GWAS.jpg" style="zoom:50%;" />
+
+[^Figure 1]: Circular diagram for the Cross-trait Genome-Wide Analysis. The four layers in the picture are divided from inside to outside. (Lung cancer——A Group of Diseases——Cell Bands——Genomic risk loci)
 
 <br>
 
