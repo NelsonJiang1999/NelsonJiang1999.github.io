@@ -4,49 +4,98 @@ permalink: /research experience/index.html
 title: Research Experience
 ---
 
-# Hobbies
+Declared before anything else: The images are only used as partial displays to avoid the leakage of core information. Contact with  jiangbh.1999@gmail.com for more information.
 
-## Swimming & Surfing
+# Research experience and Projects
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
-
-## Workshop
+## 1. Establishing a prostate cancer diagnostic model using [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) (PHI), multi-parameter MRI (mpMRI), and clinical biochemical indicators under machine learning methods  
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/PHI-LDSC.JPG">
+<img src="/images/PHI-data.JPG">
+<img src="/images/PHI-matrix.JPG">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
 <br>
 
-## Chat with me
+**Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+Role: The independent designers and main implementer of the research<br>
 
-<!-- Calendly inline widget begin -->
+- **Aim**: to train a new ***non-invasive*** prostate cancer diagnostic model which includes PHI, radiological manifestations, and routine biochemical through machine learning.<br>
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+- **Preparation in advance** (08/2023-10/2023): Literature reviews and bioinformatic analyses ([LDSC](https://www.nature.com/articles/ng.3406)/[HDL](https://www.nature.com/articles/s41588-020-0653-y)) were conducted for the screening of suitable biochemical indicators for inclusion. Get a written approval by the ethics committee.<br>
+
+- **Collection of the training set data**  (11/2023-08/2024): The data was retrospectively obtained from the internal system of the First Affiliated Hospital of China Medical University, which included 810 patients who undergone both PHI test and needle biopsy.<br>
+
+- Preliminary analysis and **Interim discussion** (04/2024)<br>
+
+- **Collection of the validation set data** (09/2024-11/2024): Cooperated with [Shandong University Affiliated Qilu Hospital](https://www.qiluhospital.com/en/) (Shandong Province, China). The inclusion/exclusion criteria remained constant with the training set. (212 patients included)<br>
+
+- **Construction of diagnostic model and formation of manuscript** (12/2024-present): Through collaboration with bioinformatics professionals, a new diagnostic model has been established with good performance. The results will be transformed into my graduation thesis.<br>
+
+## 2. Established a long-term clinical follow-up database for malignant urological tumors for the First affiliated hospital of China Medical university (07/2023-10/2024)
+
+<div class="third">
+<img src="/images/ONCO-E.JPG">
+<img src="/images/ONCO-P.JPG">
+<img src="/images/ONCO-K.JPG">
+</div>
+
+<br>
+
+**Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
+
+Role: One of the 5 **initiators** (07/2023)<br>
+
+- In response to the request of the department head, a malignant tumor database for urology was jointly established by **cooperation with four other master's students of the same class** under the guidance of senior doctors (Prof. Mo Zhang and Prof. Jianbin Bi for consultation).<br>
+
+- The database content includes patient IDs, medical history overview, preoperative laboratory tests, radiological manifestations, surgical procedures, pathological results and follow-up section. Created datasheets for data collection and follow-up in software EpiData 3.1.<br>
+
+- The database is divided into 4 major fields: prostate cancer, renal cell carcinoma and urothelial malignant tumor, and follow-up section. Due to the different focuses required, the questions on the datasheet for each field were different.<br>
+
+Role: **Participant** in Data Collection for Prostate Cancer   (08/2023-10/2023）<br>
+
+- Preoperative evaluation and recording of intraoperative and postoperative data, with **20-30 patients** per month.<br>
+
+- Adjustment and redesign of prostate cancer datasheets.<br>
+
+Role: **Leader** of the section: Renal Cell Carcinoma  (11/2023-10/2024)<br>
+
+- Preoperative evaluation and recording of intraoperative and postoperative data, with **15-25 patients** per week.<br>
+
+- ***Delivered the summarized data*** to the leader of the follow-up section for further routine follow-ups.<br>
+
+- ***Provided training*** for junior master's students to join our team. (**2 new members** have joined us)<br>
+
+​       The database we have established is planned for ***long-term operation***, continuously collecting new cases and providing information for clinical treatment of urological malignant tumors, **even after all of us initiators graduate**.<br>
+
+## 3. A Cross-trait Genome-Wide Analysis between lung cancer and a group of diseases (ongoing, secrets until article published)
+
+ **Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
+
+Role: All the main tasks were completed **on my own**.  I would like to express my gratitude to a friend majored in  bioinformatics who have helped me a lot.<br>
+
+Methods and Software: Bioinformatic analysis (R 4.3.3)<br>
+
+- Based on the summarized  data of large-scale GWAS database, I have explore the shared genetic mechanisms between lung cancer and a certain group of diseases. Potential pleiotropy sites were identified using the PLACO method, and 53 genomic risk SNP sites were identified through annotation using the FUMA tool. (Among them, a total of 46 loci passed the colocalization test). <br>
+
+- Furthermore, 37 pleiotropic genes were identified at the gene level through MAGMA annotation. <br>
+- Next, I will compare the data obtained from colocalization analysis with the genetic data of 731 kinds of immune cells in the human body, aiming to reveal the **mediating mechanisms** of various immune cells in the process of  **cancer development**. (Expected to be completed in **January 2025**).<br>
+
+<div>
+<img src="/images/GWAS.JPG">
+</div>
+
+<br>
+
+## 4. Follow-up program of patients underwent Robot-assisted Radical Prostatectomy
+
+ **Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
+
+Role: One of the ***main participants*** in 2022-2023  (07/2022-12/2023)<br>
+
+- Investigated the postoperative recovery status of patients, changes in blood PSA levels, and the presence of recurrence through regular telephone follow-up. (**40-50 patients per year**)<br>
+
+- Submitted the follow-up data to the senior for further analysis<br>
 
