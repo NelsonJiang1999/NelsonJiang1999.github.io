@@ -14,8 +14,6 @@ Oh, well... I admit that I am a heavy history enthusiast.
 
 - For Chinese friends:  
 
-  QQ Num: 2384685131
-
   Email: jiangbh.1999@163.com
 
   Wechat: <img src="https://NelsonJiang1999.github.io/images/wechat.JPG" style="zoom: 25%;" />
