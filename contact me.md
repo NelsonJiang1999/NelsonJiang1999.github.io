@@ -4,26 +4,22 @@ permalink: /contact me/index.html
 title: Contact Me
 ---
 
-# GuangLun2000.github.io
+# Nelsonjiang1999.github.io
 
-GuangLun (光轮) means Nimbus in Chinese ✨
+My English name Nelson comes from a famous British naval commander in the 18th century. His name is Horatio Nelson (1758-1805). I chose this name not only to express my admiration for his outstanding military achievements, but also to hope that I can remember his courage and unwavering determination in history during difficult times to motivate myself. 
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my personal website.
+Oh, well... I admit that I am a heavy history enthusiast.
 
-## Update and News
+## Feel free to contact me if you have any questions that need to be discussed with me.(Not limited to academic purposes, but please indicate your purpose)
 
-- **Sep 2024:** This Github Page has reached **500+ Stars**🌟 Thank you so much!
-- **May 2023:** [Jekyll website building videos](https://www.bilibili.com/video/BV1ja4y1G7tX/) have been uploaded to Bilibili (小白建站视频)
-- **April 2023:** [Website building tutorials](https://caihanlin.com/blogs/web/) have been post on my blog (建站完全指南)
-- **Dec. 2022:** My personal website have been implemented in [caihanlin.com](https://caihanlin.com)
-- **Oct. 2022:** This Github Page have been built based on [Jason Ansel's site](https://github.com/jansel/jansel.github.io).
+- For Chinese friends:  
 
-## Star History
+  QQ Num: 2384685131
 
-**If you like it, please STAR it! 🥰**
+  Email: jiangbh.1999@163.com
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+  Wechat: ![](https://NelsonJiang1999.github.io/images/wechat.JPG)
 
-## Statement
+- For foreign friends:
 
-© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+  Email: jiangbh.1999@gmail.com
