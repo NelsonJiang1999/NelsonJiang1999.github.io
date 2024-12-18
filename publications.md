@@ -20,7 +20,7 @@ title: Publications
 
 **Bohao Jiang**†, Benqiao Wang†, Yiming Chen, Yaang Chen，Bohan Li~, Jianbin Bi~<br>
 
-Manuscript ID: eclinm-D-24-04075         Current Status: Independent review<br>
+Manuscript ID: eclinm-D-24-04075         Current Status: Revisions after independent review<br>
 
 (2)   **Two Rare Cases of Primary Clear Cell Adenocarcinoma of the Urethra: Clinical experience, Case report and Literature Review**<br>
 
