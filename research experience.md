@@ -82,7 +82,7 @@ Role: **Leader** of the section: Renal Cell Carcinoma  (11/2023-10/2024)<br>
 
 ​       The database we have established is planned for ***long-term operation***, continuously collecting new cases and providing information for clinical treatment of urological malignant tumors, **even after all of us initiators graduate**.<br>
 
-## 3. A Cross-trait Genome-Wide Analysis between lung cancer and a group of diseases (ongoing, secrets until article published)
+## 3. A Cross-trait Genome-Wide Analysis between lung cancer and a group of diseases (ongoing)
 
  **Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
 
