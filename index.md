@@ -8,7 +8,7 @@ layout: page
 
 Here is **Bohao Jiang (Nelson, 姜博昊)**. 
 
-Throughout my master's degree, I played 2 roles simultaneously during the pursuit of a master's degree.
+I played 2 roles simultaneously during the pursuit of a master's degree.
 
 **Role 1: Postgraduate Student of China Medical university** <br>
 
