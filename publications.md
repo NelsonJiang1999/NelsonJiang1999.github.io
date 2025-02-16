@@ -10,9 +10,9 @@ title: Publications
 
 - **Comparative Therapeutic Effects and Safety of Different Treatments for Metastatic Castration-resistant Prostate Cancer: A Systemic Review and Network Meta-Analysis on Antiandrogen, PARP Inhibitor and Immunotherapy**<br>[eClinical Medicine]          Impact Factor = **<font color="#990000">9.6</font>**<br>**Bohao Jiang**†, Benqiao Wang†, Yiming Chen, Yaang Chen，Bohan Li~, Jianbin Bi~<br>Manuscript ID: eclinm-D-24-04075        Current Status: Accepted and waiting article proofing
 
-- [ **Retroperitoneal Bronchogenic Cyst：A Case Report and Literature review**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1406270/full)<br>[Frontiers in Oncology]    Impact Factor = **3.5**<br>**Bohao Jiang**†, Tiantian Xie†, Jiyuan Hu†, Yitong Xu~, Hao Zhang~<br>PMID: 35944288                                        doi: [10.3389/fonc.2024.1406270](https://doi.org/10.3389/fonc.2024.1406270)<br>
+- [ **Retroperitoneal Bronchogenic Cyst：A Case Report and Literature review**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1406270/full)<br>[Frontiers in Oncology]    Impact Factor = **3.5**<br>**Bohao Jiang**†, Tiantian Xie†, Jiyuan Hu†, Yitong Xu~, Hao Zhang~<br>PMID: 35944288                                        doi:  10.3389/fonc.2024.1406270<br>
 
-- [**Two Rare Cases of Primary Clear Cell Adenocarcinoma of the Urethra: Clinical experience, Case report and Literature Review**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2025.1539312/full)<br>[Frontiers in Oncology]    Impact Factor = **3.5**<br>**Bohao Jiang**†, Jiyuan Hu†, Benqiao Wang, Xujia Liu~, Yitong Xu~, Hao Zhang~<br>Manuscript ID: 1539312                             doi: [10.3389/fonc.2025.1539312](https://doi.org/10.3389/fonc.2025.1539312)<br>
+- [**Two Rare Cases of Primary Clear Cell Adenocarcinoma of the Urethra: Clinical experience, Case report and Literature Review**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2025.1539312/full)<br>[Frontiers in Oncology]    Impact Factor = **3.5**<br>**Bohao Jiang**†, Jiyuan Hu†, Benqiao Wang, Xujia Liu~, Yitong Xu~, Hao Zhang~<br>Manuscript ID: 1539312                             doi: 10.3389/fonc.2025.1539312<br>
 
 ---
 
