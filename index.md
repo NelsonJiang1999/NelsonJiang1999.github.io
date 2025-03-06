@@ -8,6 +8,26 @@ layout: page
 
 Here is **Bohao Jiang (Nelson, 姜博昊)**. 
 
+
+
+## Research Interests
+
+**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. I could also apply for funding from China Scholarship Counsil (CSC) if needed which could support my living expenses abroad. If you have any information, please contact me!</font>**
+
+- Oncology, especially malignant tumors of the urinary system. 
+- Etiology of cancer/ Early screening.
+- Mechanisms related to tumor progression and metastasis.
+- Translation of laboratory research achievements into clinical practice.
+- I am also willing to study other fields related to clinical medicine because I have had **in-depth communication and participation in the treatment** of patients with diseases in various systems in my clinical work.
+
+All the fields above are **<font color="#990000">closely related</font>** to my **current research** topic and **future career planning** ——being an outstanding researcher and surgeon.  I wish to devote my effort to this meaningful cause and bring well-being to society.
+
+---
+
+
+
+## Self Introduction
+
 I played 2 roles simultaneously during the pursuit of a master's degree.
 
 **Role 1: Postgraduate Student of China Medical university** <br>
@@ -32,6 +52,12 @@ If you are interested in any aspect of me, I am always open to discussions and s
 
 ---
 
+
+
+
+
+---
+
 ## Educational Background
 
 - **China Medical University**  Master of Clinical Medicine (Surgery) (08/2022-present)<br>
@@ -41,20 +67,6 @@ If you are interested in any aspect of me, I am always open to discussions and s
 - **China Medical University**  Bachelor of Clinical Medicine  (09/2017-06/2022)
 
   Academic Score: 92/100 (GPA not applicable).  Rank 4th in my major (4/153, **top 3%**)
-
-## Research Interests
-
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. I could also apply for funding from China Scholarship Counsil (CSC) if needed which could support my living expenses abroad. If you have any information, please contact me!</font>**
-
-- Oncology, especially malignant tumors of the urinary system. 
-- Etiology of cancer/ Early screening.
-- Mechanisms related to tumor progression and metastasis.
-- Translation of laboratory research achievements into clinical practice.
-- I am also willing to study other fields related to clinical medicine because I have had **in-depth communication and participation in the treatment** of patients with diseases in various systems in my clinical work.
-
-All the fields above are **<font color="#990000">closely related</font>** to my **current research** topic and **future career planning** ——being an outstanding researcher and surgeon.  I wish to devote my effort to this meaningful cause and bring well-being to society.
-
----
 
 
 
