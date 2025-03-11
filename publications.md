@@ -8,7 +8,7 @@ title: Publications
 
 ## Publication (as the first author)
 
-- [**Comparative Therapeutic Effects and Safety of Different Treatments for Metastatic Castration-resistant Prostate Cancer: A Systemic Review and Network Meta-Analysis on Antiandrogen, PARP Inhibitor and Immunotherapy**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00061-6/fulltext)<br>[eClinical Medicine]          Impact Factor = **<font color="#990000">9.6</font>**<br>**Bohao Jiang**†, Benqiao Wang†, Yiming Chen, Yaang Chen，Bohan Li~, Jianbin Bi~<br>Published Online                                       doi: 10.1016/j.eclinm.2025.103129 
+- [**Comparative therapeutic efficacy and safety of first-line and second-line therapies for metastatic castration-resistant prostate cancer: a systematic review and network meta-analysis**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00061-6/fulltext)<br>[eClinical Medicine]          Impact Factor = **<font color="#990000">9.6</font>**<br>**Bohao Jiang**†, Benqiao Wang†, Yiming Chen, Yaang Chen，Bohan Li~, Jianbin Bi~<br>Published Online                                       doi: 10.1016/j.eclinm.2025.103129 
 
 - [ **Retroperitoneal Bronchogenic Cyst：A Case Report and Literature review**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1406270/full)<br>[Frontiers in Oncology]    Impact Factor = **3.5**<br>**Bohao Jiang**†, Tiantian Xie†, Jiyuan Hu†, Yitong Xu~, Hao Zhang~<br>PMID: 35944288                                        doi:  10.3389/fonc.2024.1406270<br>
 
@@ -24,7 +24,7 @@ title: Publications
 
 **Bohao Jiang**†, Yifan Bi†, Yiming Chen, Jianbin Bi, Jian Deng~, Gejun Zhang~<br>
 
-Manuscript ID: 1533627                             Current Status: Reviewers assignment<br>(2)  **Early Predictive Accuracy of Machine Learning for Hemorrhagic Transformation in Acute Ischemic Stroke: A Systemic review and Meta-Analysis**<br>
+Manuscript ID: 1533627                             Current Status: Independent review<br>(2)  **Early Predictive Accuracy of Machine Learning for Hemorrhagic Transformation in Acute Ischemic Stroke: A Systemic review and Meta-Analysis**<br>
 
 [Journal of Medical Internet Research]<br>
 
