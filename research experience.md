@@ -10,7 +10,7 @@ Declared before anything else: The images are only used as partial displays to a
 
 ## 1. Constructing a dual diagnostic model for clinically significant prostate cancer using multi parameter magnetic resonance imaging，biochemical testing, and [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) 
 
-The following images are only used to showcase selected work results, and more detailed content will not be displayed due to the planned submission.
+The following images are only used to showcase **selected work results**, and more detailed content will **not** be displayed due to the **planned submission**.
 
 <img src="https://NelsonJiang1999.github.io/images/MRCIEU.jpg" style="zoom: 25%;" />
 
