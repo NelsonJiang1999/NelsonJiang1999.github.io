@@ -8,19 +8,41 @@ Declared before anything else: The images are only used as partial displays to a
 
 # Research experience and Projects
 
-## 1. Establishing a prostate cancer diagnostic model using [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) (PHI), multi-parameter MRI (mpMRI), and clinical biochemical indicators under machine learning methods  
+## 1. Constructing a dual diagnostic model for clinically significant prostate cancer using multi parameter magnetic resonance imaging，biochemical testing, and [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) 
+
+The following images are only used to showcase selected work results, and more detailed content will not be displayed due to the planned submission.
+
+<img src="https://NelsonJiang1999.github.io/images/MRCIEU.jpg" style="zoom: 25%;" />
+
+**Figure 1:** The data source and detailed information for GWAS analysis
 
 <img src="https://NelsonJiang1999.github.io/images/PHI-LDSC.jpg" style="zoom: 25%;" />
 
-**Figure 1:** LDSC analysis (Part of the screening work for included indicators)
+**Figure 2:** LDSC analysis (Part of the screening work for included indicators)
 
 <img src="https://NelsonJiang1999.github.io/images/PHI-data.jpg" style="zoom: 33%;" />
 
-**Figure 2:** Part of the validation set data
+**Figure 3:** Part of the validation set data
 
-<img src="https://NelsonJiang1999.github.io/images/PHI-matrix.jpg" style="zoom: 50%;" />
+<img src="https://NelsonJiang1999.github.io/images/Flowdiagram.jpg" style="zoom: 50%;" />
 
-**Figure 3:** Consensus matrix (A step of machine-learning for clustering of dependent variables)
+**Figure 4:** Flowdiagram of our dual diagnostic model (from suspicion to diagnosis)
+
+<img src="https://NelsonJiang1999.github.io/images/Screening.jpg" style="zoom: 50%;" />
+
+**Figure 5:** The good diagnostic performance of the initial screening model in the validation set
+
+<img src="https://NelsonJiang1999.github.io/images/95.jpg" style="zoom: 50%;" />
+
+**Figure 6:** Example - Construction and effectiveness verification of correction model under 95% sensitivity of initial screening model
+
+<img src="https://NelsonJiang1999.github.io/images/Result.jpg" style="zoom: 50%;" />
+
+**Figure 7:** Overall performance of our dual diagnostic model.
+
+<img src="https://NelsonJiang1999.github.io/images/PSA.jpg" style="zoom: 50%;" />
+
+**Figure 8:** Subgroup analysis of different PSA level presents the excellent diagnostic effect in both PSA gray zone group and high PSA level group. (S: Initial Screening Model; C: Correction Model; +: Positive; -: Negative)
 
 <br>
 
@@ -28,7 +50,7 @@ Declared before anything else: The images are only used as partial displays to a
 
 Role: The independent designers and main implementer of the research<br>
 
-- **Aim**: to train a new ***non-invasive*** prostate cancer diagnostic model which includes PHI, radiological manifestations, and routine biochemical through machine learning.<br>
+- **Aim**: to train a new ***non-invasive*** prostate cancer diagnostic model which includes PHI, radiological manifestations, and routine biochemical tests through machine learning.<br>
 
 - **Preparation in advance** (08/2023-10/2023): Literature reviews and bioinformatic analyses ([LDSC](https://www.nature.com/articles/ng.3406)/[HDL](https://www.nature.com/articles/s41588-020-0653-y)) were conducted for the screening of suitable biochemical indicators for inclusion. Get a written approval by the ethics committee.<br>
 
@@ -36,9 +58,13 @@ Role: The independent designers and main implementer of the research<br>
 
 - Preliminary analysis and **Interim discussion** (04/2024)<br>
 
-- **Collection of the validation set data** (09/2024-11/2024): Cooperated with [Shandong University Affiliated Qilu Hospital](https://www.qiluhospital.com/en/) (Shandong Province, China). The inclusion/exclusion criteria remained constant with the training set. (212 patients included)<br>
+- **Collection of the validation set data** (09/2024-11/2024): Cooperated with [Shandong University Affiliated Qilu Hospital](https://www.qiluhospital.com/en/) (Shandong Province, China). The inclusion/exclusion criteria remained constant with the training set. (164 patients included)<br>
 
-- **Construction of diagnostic model and formation of manuscript** (12/2024-present): Through collaboration with bioinformatics professionals, a new diagnostic model has been established with good performance. The results will be transformed into my graduation thesis.<br>
+- **Construction of diagnostic model and formation of manuscript** (12/2024-02/2025): Through collaboration with bioinformatics professionals, a dual diagnostic model has been established with good diagnostic performance.  
+
+- **Formation of Graduation Thesis** (02/2025-05/2025): Successfully passed the graduation defense.<br>
+
+- **Achievements and Future Development Plan**: Graduation thesis has been completed by my work. In the near future, I plan to use **clustering analysis** to cluster the prediction error data of the correction model to summarize common features, thereby forming a **more directional and high-precision** diagnostic strategy. Simultaneously, I also plan to  increase the amount of validation set data. Through my work, I set a goal of forming a **high-level Q1 article**.
 
 ## 2. Established a long-term clinical follow-up database for malignant urological tumors for the First affiliated hospital of China Medical university (07/2023-10/2024)
 
@@ -93,7 +119,7 @@ Methods and Software: Bioinformatic analysis (R 4.3.3)<br>
 - Based on the summarized  data of large-scale GWAS database, I have explore the shared genetic mechanisms between lung cancer and a certain group of diseases. Potential pleiotropy sites were identified using the PLACO method, and 53 genomic risk SNP sites were identified through annotation using the FUMA tool. (Among them, a total of 46 loci passed the colocalization test). <br>
 
 - Furthermore, 37 pleiotropic genes were identified at the gene level through MAGMA annotation. <br>
-- Next, I will compare the data obtained from colocalization analysis with the genetic data of 731 kinds of immune cells in the human body, aiming to reveal the **mediating mechanisms** of various immune cells in the process of  **cancer development**. (Expected to be completed in **January 2025**).<br>
+- Next, I will compare the data obtained from colocalization analysis with the genetic data of 731 kinds of immune cells in the human body, aiming to reveal the **mediating mechanisms** of various immune cells in the process of  **cancer development**. <br>
 
 <img src="https://NelsonJiang1999.github.io/images/GWAS.jpg" style="zoom:50%;" />
 

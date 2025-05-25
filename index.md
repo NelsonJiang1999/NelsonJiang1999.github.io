@@ -12,7 +12,7 @@ Here is **Bohao Jiang (Nelson, 姜博昊)**.
 
 ## Research Interests
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. I could also apply for funding from China Scholarship Counsil (CSC) if needed which could support my living expenses abroad. If you have any information, please contact me!</font>**
+**<font color="#990000">I am actively seeking a PhD position for 2025/2026 admission.  If you have any information, please contact me!</font>**
 
 - Oncology, especially malignant tumors of the urinary system. 
 - Etiology of cancer/ Early screening.
@@ -32,7 +32,7 @@ I played 2 roles simultaneously during the pursuit of a master's degree.
 
 **Role 1: Postgraduate Student of China Medical university** <br>
 
-I am a graduate student in the Department of Surgery and Urology at the China medical university, advised by Prof. Jianbin Bi, with a main research focus on Genitourinary Oncology (Clinical diagnosis, Treatment and Prognosis of malignant tumors of the urinary system). I have achieved an outstanding academic score in class (4th out of 153 students in our major, **Top 3%**) and will get my master degree in Clinical Medicine (Surgery) in 2025.  Detailed publications and research program are displayed in Section "Publication", "Research experience" and "Patent".
+I am a graduate student in the Department of Surgery and Urology at the China medical university, advised by Prof. Jianbin Bi, with a main research focus on Genitourinary Oncology (Clinical diagnosis, Treatment and Prognosis of malignant tumors of the urinary system). I have achieved an outstanding academic score in class (4th out of 153 students in our major, **Top 3%**) and will get my master degree in Clinical Medicine (Surgery) in June 2025.  Detailed publications and research program are displayed in Section "Publication", "Research experience" and "Patent".
 
 **Role 2: Surgical resident in the first affiliated hospital of China Medical University**<br>
 
@@ -60,9 +60,9 @@ If you are interested in any aspect of me, I am always open to discussions and s
 
 ## Educational Background
 
-- **China Medical University**  Master of Clinical Medicine (Surgery) (08/2022-present)<br>
+- **China Medical University**  Master of Clinical Medicine (Surgery, Urology Direction) (08/2022-06/2025)<br>
 
-​        Supervisor: Prof. Dr. Jianbin Bi;             (Expected to graduate in **June 2025**)
+​        Supervisor: Prof. Dr. Jianbin Bi;            
 
 - **China Medical University**  Bachelor of Clinical Medicine  (09/2017-06/2022)
 

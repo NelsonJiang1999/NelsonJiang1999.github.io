@@ -6,7 +6,7 @@ title: Work Experience
 
 ## Professional Experiences (Surgical Resident):
 
-**The first hospital of China Medical University, Shenyang**  (09/2023-present) <br>
+**The first hospital of China Medical University, Shenyang**  (09/2023-06/2025) <br>
 
 - Manage hospitalized patients (an average of **30 patients** per month), make preliminary diagnosis and assist supervising physicians with pre-surgical examinations and post-surgical management.
 - An average monthly surgical volume of **over 20 cases as FA (first assistant) or SA (Second assistant)** in surgery. **Proficiency** in basic surgical procedures and instrumentations.
