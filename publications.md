@@ -12,7 +12,7 @@ title: Publications
 
 -  [**Early Predictive Accuracy of Machine Learning for Hemorrhagic Transformation in Acute Ischemic Stroke: A Systemic review and Meta-Analysis**](https://www.jmir.org/2025/1/e71654)
 
-  [Journal of Medical Internet Research]          (Q1) Impact Factor = **5.8**<br>
+  [J Medical Internet Res.]          (Q1) Impact Factor = **5.8**<br>
 
   Benqiao Wang†, **Bohao Jiang**†, Dan Liu, Ruixia Zhu~<br>
 
@@ -24,7 +24,7 @@ title: Publications
 
 - [**Two Rare Cases of Primary Clear Cell Adenocarcinoma of the Urethra: Clinical experience, Case report and Literature Review**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2025.1539312/full)<br>[Frontiers in Oncology]         (Q2) Impact Factor = **3.5**<br>**Bohao Jiang**†, Jiyuan Hu†, Benqiao Wang, Xujia Liu~, Yitong Xu~, Hao Zhang~<br>PMID: 40012547                             doi: 10.3389/fonc.2025.1539312<br>
 
-- [**Case Report: Two Cases of Chemotherapy Refractory Aggressive Variant Prostate Cancer with Extreme Durable Response to PARP inhibitor**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2025.1533627/full)
+- [**Case Report: Two Cases of Chemotherapy Refractory Aggressive Variant Prostate Cancer with Extreme Durable Response to PARP inhibitor**](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2025.1533627/full)<br>
 
   [Frontiers in Oncology]         (Q2) Impact Factor = **3.5**<br>
 
