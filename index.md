@@ -12,7 +12,7 @@ Here is **Bohao Jiang (Nelson, 姜博昊)**.
 
 ## Research Interests
 
-**<font color="#990000">I am actively seeking a PhD position for 2025/2026 admission.  If you have any information, please contact me!</font>**
+**<font color="#990000">I am actively seeking a PhD position for 2026 admission.  If you have any information, please contact me!</font>**
 
 - Oncology, especially malignant tumors of the urinary system. 
 - Etiology of cancer/ Early screening.

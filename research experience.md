@@ -108,26 +108,9 @@ Role: **Leader** of the section: Renal Cell Carcinoma  (11/2023-10/2024)<br>
 
 ​       The database we have established is planned for ***long-term operation***, continuously collecting new cases and providing information for clinical treatment of urological malignant tumors, **even after all of us initiators graduate**.<br>
 
-## 3. A Cross-trait Genome-Wide Analysis between lung cancer and a group of diseases (ongoing)
 
- **Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
 
-Role: All the main tasks were completed **on my own**.  I would like to express my gratitude to a friend majored in  bioinformatics who have helped me a lot.<br>
-
-Methods and Software: Bioinformatic analysis (R 4.3.3)<br>
-
-- Based on the summarized  data of large-scale GWAS database, I have explore the shared genetic mechanisms between lung cancer and a certain group of diseases. Potential pleiotropy sites were identified using the PLACO method, and 53 genomic risk SNP sites were identified through annotation using the FUMA tool. (Among them, a total of 46 loci passed the colocalization test). <br>
-
-- Furthermore, 37 pleiotropic genes were identified at the gene level through MAGMA annotation. <br>
-- Next, I will compare the data obtained from colocalization analysis with the genetic data of 731 kinds of immune cells in the human body, aiming to reveal the **mediating mechanisms** of various immune cells in the process of  **cancer development**. <br>
-
-<img src="https://NelsonJiang1999.github.io/images/GWAS.jpg" style="zoom:50%;" />
-
-**Figure 1:** The Circular diagram for the Cross-trait Genome-Wide Analysis. The four layers in the picture are divided from inside to outside. (*Lung cancer——A Group of Diseases——Cell Bands——Genomic risk loci*)
-
-<br>
-
-## 4. Follow-up program of patients underwent Robot-assisted Radical Prostatectomy
+## 3. Follow-up program of patients underwent Robot-assisted Radical Prostatectomy
 
  **Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
 
