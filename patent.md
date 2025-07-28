@@ -10,7 +10,11 @@ title: Patent
 
 First Inventor
 
-Application Status: The internal review of the hospital and the third-party organization commissioned by the hospital has been passed. ***Waiting for approval from relevant government departments.***
+Application Status: 
+
+The internal review of the hospital and the third-party organization commissioned by the hospital has been passed. 
+
+***Patent Pending***
 
 A short video clip  has been made to show how the patent works. **Once registered**, it will be uploaded to this web page.
 

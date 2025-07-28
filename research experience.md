@@ -8,43 +8,41 @@ Declared before anything else: The images are only used as partial displays to a
 
 # Research experience and Projects
 
-## 1. Constructing a dual diagnostic model for clinically significant prostate cancer using multi parameter magnetic resonance imaging，biochemical testing, and [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) 
+## 1. Constructing a dual diagnostic model for csPCa using mpMRI，biochemical testing, and [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) 
 
-The following images are only used to showcase **selected work results**, and more detailed content will **not** be displayed due to the **planned submission**.
+The following images are only used to showcase **selected work results**, and more detailed content will **not** be displayed due to the **planned submission**. <br>
 
 <img src="https://NelsonJiang1999.github.io/images/MRCIEU.jpg" style="zoom: 25%;" />
 
-**Figure 1:** The data source and detailed information for GWAS analysis
+**Figure 1:** The data source and detailed information for GWAS analysis<br>
 
 <img src="https://NelsonJiang1999.github.io/images/PHI-LDSC.jpg" style="zoom: 25%;" />
 
-**Figure 2:** LDSC analysis (Part of the screening work for included indicators)
+**Figure 2:** LDSC analysis (Part of the screening work for included indicators)<br>
 
 <img src="https://NelsonJiang1999.github.io/images/PHI-data.jpg" style="zoom: 33%;" />
 
-**Figure 3:** Part of the validation set data
+**Figure 3:** Part of the validation set data<br>
 
 <img src="https://NelsonJiang1999.github.io/images/Flowdiagram.jpg" style="zoom: 50%;" />
 
-**Figure 4:** Flowdiagram of our dual diagnostic model (from suspicion to diagnosis)
+**Figure 4:** Flowdiagram of our dual diagnostic model (from suspicion to diagnosis)<br>
 
 <img src="https://NelsonJiang1999.github.io/images/Screening.jpg" style="zoom: 50%;" />
 
-**Figure 5:** The good diagnostic performance of the initial screening model in the validation set
+**Figure 5:** The good diagnostic performance of the initial screening model in the validation set<br>
 
 <img src="https://NelsonJiang1999.github.io/images/95.jpg" style="zoom: 50%;" />
 
-**Figure 6:** Example - Construction and effectiveness verification of correction model under 95% sensitivity of initial screening model
+**Figure 6:** Example - Construction and effectiveness verification of correction model under 95% sensitivity of initial screening model<br>
 
 <img src="https://NelsonJiang1999.github.io/images/Result.jpg" style="zoom: 50%;" />
 
-**Figure 7:** Overall performance of our dual diagnostic model.
+**Figure 7:** Overall performance of our dual diagnostic model.<br>
 
 <img src="https://NelsonJiang1999.github.io/images/PSA.jpg" style="zoom: 50%;" />
 
-**Figure 8:** Subgroup analysis of different PSA level presents the excellent diagnostic effect in both PSA gray zone group and high PSA level group. (S: Initial Screening Model; C: Correction Model; +: Positive; -: Negative)
-
-<br>
+**Figure 8:** Subgroup analysis of different PSA level presents the excellent diagnostic effect in both PSA gray zone group and high PSA level group. (S: Initial Screening Model; C: Correction Model; +: Positive; -: Negative)<br>
 
 **Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
 
@@ -60,27 +58,25 @@ Role: The independent designers and main implementer of the research<br>
 
 - **Collection of the validation set data** (09/2024-11/2024): Cooperated with [Shandong University Affiliated Qilu Hospital](https://www.qiluhospital.com/en/) (Shandong Province, China). The inclusion/exclusion criteria remained constant with the training set. (164 patients included)<br>
 
-- **Construction of diagnostic model and formation of manuscript** (12/2024-02/2025): Through collaboration with bioinformatics professionals, a dual diagnostic model has been established with good diagnostic performance.  
+- **Construction of diagnostic model and formation of manuscript** (12/2024-02/2025): Through collaboration with bioinformatics professionals, a dual diagnostic model has been established with good diagnostic performance.  <br>
 
 - **Formation of Graduation Thesis** (02/2025-05/2025): Successfully passed the graduation defense.<br>
 
-- **Achievements and Future Development Plan**: Graduation thesis has been completed by my work. In the near future, I plan to use **clustering analysis** to cluster the prediction error data of the correction model to summarize common features, thereby forming a **more directional and high-precision** diagnostic strategy. Simultaneously, I also plan to  increase the amount of validation set data. Through my work, I set a goal of forming a **high-level Q1 article**.
+- **Achievements and Future Development Plan**: Graduation thesis has been completed by my work. In the near future, I plan to use **clustering analysis** to cluster the prediction error data of the correction model to summarize common features, thereby forming a **more directional and high-precision** diagnostic strategy. Simultaneously, I also plan to  increase the amount of validation set data. Through my work, I set a goal of forming a **high-level Q1 article**.<br>
 
 ## 2. Established a long-term clinical follow-up database for malignant urological tumors for the First affiliated hospital of China Medical university (07/2023-10/2024)
 
 <img src="https://NelsonJiang1999.github.io/images/ONCO-E.jpg" style="zoom:50%;" />
 
-**Figure 1:** Developed clinical database was based on EpiData 3.1
+**Figure 1:** Developed clinical database was based on EpiData 3.1<br>
 
 <img src="https://NelsonJiang1999.github.io/images/ONCO-P.jpg" style="zoom:50%;" />
 
-**Figure 2:** Datasheet designed for prostate cancer
+**Figure 2:** Datasheet designed for prostate cancer (Excerpted from Section "Patient Information") <br>
 
 <img src="https://NelsonJiang1999.github.io/images/ONCO-K.jpg" style="zoom:50%;" />
 
-**Figure 3:** Datasheet designed for Renal Cell Carcinoma
-
-<br>
+**Figure 3:** Datasheet designed for Renal Cell Carcinoma (Excerpted from Section "Patient Information") <br>
 
 **Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
 
