@@ -60,17 +60,27 @@ If you are interested in any aspect of me, I am always open to discussions and s
 
 ## Educational Background
 
-- **China Medical University**  Master of Clinical Medicine (Surgery, Direction: Urology) (08/2022-06/2025)<br>
+- **China Medical University** <br>
+
+  Master of Clinical Medicine (Surgery, Direction: Urology) (08/2022-06/2025)<br>
 
 ​        Supervisor: Prof. Dr. Jianbin Bi;  <br>
 
 ​          <br>
 
-- **China Medical University**  Bachelor of Clinical Medicine  (09/2017-06/2022)<br>
+- **China Medical University**  <br>
 
-  Academic Excellence: 92/100 (*Percentage-based system; GPA not applicable*).  <br>
+  Bachelor of Clinical Medicine  (09/2017-06/2022)<br>
   
+  <br>
+  
+- **Academic Excellence** 92/100 (*Percentage-based system; GPA not applicable*).  <br>
+
   Rank 4th in my major (4/153, **top 3%**)<br>
+  
+  
+  
+  
 
 
 
