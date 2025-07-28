@@ -10,7 +10,7 @@ title: Publications
 
 - [**Comparative therapeutic efficacy and safety of first-line and second-line therapies for metastatic castration-resistant prostate cancer: a systematic review and network meta-analysis**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00061-6/fulltext)<br>[*eClinical Medicine*]           (Q1) Impact Factor = **<font color="#990000">10.0</font>**<br>***Bohao Jiang***†, Benqiao Wang†, Yiming Chen, Yaang Chen，Bohan Li~, Jianbin Bi~<br>PMID: 40104085                                       doi: 10.1016/j.eclinm.2025.103129 
 
--  [**Early Predictive Accuracy of Machine Learning for Hemorrhagic Transformation in Acute Ischemic Stroke: A Systemic review and Meta-Analysis**](https://www.jmir.org/2025/1/e71654)
+-  [**Early Predictive Accuracy of Machine Learning for Hemorrhagic Transformation in Acute Ischemic Stroke: A Systemic review and Meta-Analysis**](https://www.jmir.org/2025/1/e71654)<br>
 
   [*J Medical Internet Res.*]          (Q1) Impact Factor = **6.0**<br>
 
@@ -38,7 +38,7 @@ title: Publications
 
 (1) **Constructing a dual-model diagnostic framework for clinically significant prostate cancer using multi-parameter magnetic resonance imaging, biochemical testing, and prostate health index**  <br>
 
-***Bohao Jiang***†, Shouzhen Chen†, Xianhao Xiao†, Jiyuan Hu†, Jianbin Bi~*, Jianfeng Wang~*, Hao Zhang~<br>
+***Bohao Jiang***†, Shouzhen Chen†, Xianhao Xiao†, Jiyuan Hu†, Jianbin Bi~, Jianfeng Wang~, Hao Zhang~<br>
 
 Contribution: Writing, Clinical data collection, Data analysis, Main organizer<br>
 
