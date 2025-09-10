@@ -12,7 +12,7 @@ Declared before anything else: The images are only used as partial displays to a
 
 The following flowchart shows the overall design of the study. Several interesting results have been founded. Please contact me for more detailed information if you want.<br>
 
-![](C:\Users\Lenovo\Documents\GitHub\images\flowchart.png)
+<img src="https://NelsonJiang1999.github.io/images/flowchart.png" style="zoom: 25%;" />
 
 ## 2. Constructing a dual diagnostic model for csPCa using mpMRI，biochemical testing, and [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) 
 
