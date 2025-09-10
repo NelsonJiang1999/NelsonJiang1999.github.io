@@ -8,7 +8,13 @@ Declared before anything else: The images are only used as partial displays to a
 
 # Research experience and Projects
 
-## 1. Constructing a dual diagnostic model for csPCa using mpMRI，biochemical testing, and [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) 
+## 1. **Multi-Omics Integration for Investigating the Genetic Landscape between Prostate Cancer and Aging**
+
+The following flowchart shows the overall design of the study. Several interesting results have been founded. Please contact me for more detailed information if you want.<br>
+
+![](C:\Users\Lenovo\Documents\GitHub\images\flowchart.png)
+
+## 2. Constructing a dual diagnostic model for csPCa using mpMRI，biochemical testing, and [prostate health index](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943368/) 
 
 The following images are only used to showcase **selected work results**, and more detailed content will **not** be displayed due to the **planned submission**. <br>
 
@@ -64,7 +70,7 @@ Role: The independent designers and main implementer of the research<br>
 
 - **Achievements and Future Development Plan**: Graduation thesis has been completed by my work. In the near future, I plan to use **clustering analysis** to cluster the prediction error data of the correction model to summarize common features, thereby forming a **more directional and high-precision** diagnostic strategy. Simultaneously, I also plan to  increase the amount of validation set data. Through my work, I set a goal of forming a **high-level Q1 article**.<br>
 
-## 2. Established a long-term clinical follow-up database for malignant urological tumors for the First affiliated hospital of China Medical university (07/2023-10/2024)
+## 3. Established a long-term clinical follow-up database for malignant urological tumors for the First affiliated hospital of China Medical university (07/2023-10/2024)
 
 <img src="https://NelsonJiang1999.github.io/images/ONCO-E.jpg" style="zoom:50%;" />
 
@@ -106,7 +112,7 @@ Role: **Leader** of the section: Renal Cell Carcinoma  (11/2023-10/2024)<br>
 
 
 
-## 3. Follow-up program of patients underwent Robot-assisted Radical Prostatectomy
+## 4. Follow-up program of patients underwent Robot-assisted Radical Prostatectomy
 
  **Location: Department of urology, the First Affiliated Hospital of China Medical University**<br>
 
