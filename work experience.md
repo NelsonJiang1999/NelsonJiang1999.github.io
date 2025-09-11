@@ -6,11 +6,12 @@ title: Work Experience
 
 ## Professional Experiences (Laboratory Intern):
 
-**Chongqing Medical University, Chongqing**  (07/2025-Present) <br>
+**Laboratory of Pathological Biology, Chongqing Medical University, Chongqing**  (07/2025-Present) <br>
 
 - Experience in cell function test. (e.g. Western-blot; RT-qPCR; ELISA)<br>
 - Experience in cell culture, resuscitation, cryopreservation and transfection.<br>
 - Experience in feeding of experimental mice, tail vein injection and extraction of bone marrow cell.<br>
+- Experience in establishing cell & mouse infection models of Mycobacterium Smegmatis.<br>
 
 ## Professional Experiences (Surgical Resident):
 
